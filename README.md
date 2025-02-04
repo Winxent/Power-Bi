@@ -3,6 +3,7 @@ This repository showcases the skills I’ve developed through my experience with
 
 https://docs.google.com/presentation/d/1gDQ6L-lju9S9CJGkzpzNDRAQysk4PGJ4/edit#slide=id.p1
 
+👇Click me 👇
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
 
@@ -11,9 +12,17 @@ Data visualization enables us to consolidate complex data from multiple sources 
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
-# Why Power Bi
+# Power Bi
 Power BI is an easy-to-use, customizable tool that provides quick access to real-time data. With built-in features like AI insights and seamless integration, it simplifies data analysis and decision-making.
 
 ![image](https://github.com/user-attachments/assets/b3fb4eca-e5c7-4437-b3ef-2123576f0d27)
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
+
+# Why Power Bi
+Power BI seamlessly integrates data from multiple sources, including Excel, OneDrive, on-premise or cloud data warehouses, SQL, Azure, and Snowflake. It transforms complex data into actionable insights through powerful visualizations in interactive dashboards.
+
+![image](https://github.com/user-attachments/assets/deb75e85-5ebe-4df4-8c26-0ca1b21c8626)
+
+![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
+
